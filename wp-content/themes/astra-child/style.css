@@ -31,3 +31,8 @@ wpf-center .wpforms-head-container,
 .wpf-center .wpforms-submit-container {
      text-align: center; 
 }
+
+.elementor-button-wrapper .elementor-button:hover, .elementor-button-wrapper .elementor-button:focus {
+	border-color: black;
+
+}
