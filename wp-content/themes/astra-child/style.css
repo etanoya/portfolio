@@ -33,6 +33,6 @@ wpf-center .wpforms-head-container,
 }
 
 .elementor-button-wrapper .elementor-button:hover, .elementor-button-wrapper .elementor-button:focus {
-	border-color: black;
+	border-color: black !important;
 
 }
