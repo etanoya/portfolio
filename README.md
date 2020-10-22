@@ -1,4 +1,4 @@
 # This is my Portfolio
 
-![Portfolio](https://ibb.co/Bsr4y29)
+![Portfolio](https://i.ibb.co/KyLN2xJ/Screenshot-2.png)
 
