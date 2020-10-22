@@ -44,3 +44,8 @@ a:hover {
 a:active {
 	color: black;
 }
+
+.elementor-heading-title elementor-size-default {
+	color: black;
+	font-size: 63px;
+}
