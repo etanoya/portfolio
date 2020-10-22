@@ -36,3 +36,11 @@ wpf-center .wpforms-head-container,
 	border-color: black !important;
 
 }
+
+a:hover {
+    color:black;
+}
+
+a:active {
+	color: black;
+}
