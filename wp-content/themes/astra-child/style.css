@@ -19,3 +19,15 @@ Updated: 2020-10-21 14:10:57
     
     text-transform: normal;
 }
+
+.wpforms-container.wpf-center {
+     margin: 0 auto !important;
+     max-width: 400px;
+	   align-content: center;
+	
+}
+
+wpf-center .wpforms-head-container, 
+.wpf-center .wpforms-submit-container {
+     text-align: center; 
+}
